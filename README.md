@@ -30,8 +30,8 @@
 * **Description:** Analysis of the dynamics and structure of startup financing to optimize investment strategies.
 * **Описание:** Анализ динамики и структуры финансирования стартапов для оптимизации инвестиционных стратегий.
 
-### [«Yandex Afisha» service: Exploratory Data Analysis / Исследовательский анализ данных сервиса «Яндекс Афиша»](https://github.com/xray171/Projects/blob/221fec3d6c171ee3040717017fc44bf17c409fd2/Yandex%20Afisha%20service%20analysis%20%5Bcourse%20project%5D.ipynb)
-* **Description:** Analyzing product and financial metrics for the Yandex Afisha service, identifying the reasons for their changes, and testing hypotheses about user activity across devices.****
+### [«Yandex Afisha» service: Exploratory data analysis / Исследовательский анализ данных сервиса «Яндекс Афиша»](https://github.com/xray171/Projects/blob/221fec3d6c171ee3040717017fc44bf17c409fd2/Yandex%20Afisha%20service%20analysis%20%5Bcourse%20project%5D.ipynb)
+* **Description:** Analyzing product and financial metrics for the Yandex Afisha service, identifying the reasons for their changes, and testing hypotheses about user activity across devices.
 * **Описание:** Анализ продуктовых и финансовых метрик сервиса «Яндекс Афиша», поиск причин их изменения и проверка гипотез об активности пользователей на разных устройствах.
 
 
