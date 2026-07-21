@@ -2,6 +2,7 @@
 ### Data Analyst / Data Scientist
 
 Welcome to my portfolio! I specialize in data analysis, statistical modeling, and building interactive dashboards to turn raw data into actionable insights.  
+
 Добро пожаловать в моё портфолио. Я специализируюсь на анализе данных, статистическом моделировании и создании интерактивных дашбордов для преобразования необработанных данных в практические рекомендации.
 ---
 
