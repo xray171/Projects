@@ -38,5 +38,5 @@
 ---
 
 ## 📬 Contact info
-* **Telegram:** [@your_username](https://t.me/xray171)
+* **Telegram:** https://t.me/xray171
 * **Email:** xray171@gmail.com
