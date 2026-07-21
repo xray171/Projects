@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 📊 Data Analysis & Statistics
-* **Python** (Pandas & NumPy, SciPy, Phik, Missingno, Matplotlib, Seaborn) 
+* **Python** (Pandas, NumPy, SciPy, Phik, Missingno, Matplotlib, Seaborn) 
 
 ### 🖼️ Data Visualization & BI
 * **Yandex DataLens**
