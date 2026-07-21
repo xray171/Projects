@@ -1,28 +1,24 @@
 # Hi there, I'm Dmitrii 👋
 ### Data Analyst / Data Scientist
 
-Welcome to my portfolio! I specialize in data analysis, statistical modeling, and building interactive dashboards to turn raw data into actionable business insights.
-Добро пожаловать в моё портфолио. 
+Welcome to my portfolio! I specialize in data analysis, statistical modeling, and building interactive dashboards to turn raw data into actionable insights.
+Добро пожаловать в моё портфолио. Я специализируюсь на анализе данных, статистическом моделировании и создании интерактивных дашбордов для преобразования необработанных данных в практические рекомендации.
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 📊 Data Analysis & Statistics
-* **Python** — Core language for data manipulation and scripting.
-* **pandas & NumPy** — Heavy data cleaning, transformation, and matrix operations.
-* **SciPy** — Statistical hypothesis testing and advanced mathematical functions.
-* **Phik ($\phi_k$)** — Advanced correlation analysis for non-linear and categorical variables.
-* **Missingno** — Visual profiling of missing data.
+* **Python** (Pandas & NumPy, SciPy, Phik, Missingno, Matplotlib, Seaborn) 
 
 ### 🖼️ Data Visualization & BI
-* **Yandex DataLens** — Creating production-ready business dashboards and charts.
-* **Matplotlib & Seaborn** — Exploratory data analysis (EDA) and custom statistical plots.
+* **Yandex DataLens**
+* **Apache Superset**
 
 ### 🗄️ Databases & Infrastructure
-* **SQL** — Complex queries, data aggregation, and database management.
-* **DuckDB** — Fast analytical queries on local datasets and parquet files.
-* **DBeaver** — Primary database administration GUI.
-* **Docker** — Containerization for reproducible environments and analytical pipelines.
+* **SQL**
+* **DuckDB**
+* **DBeaver**
+* **Docker**
 
 ---
 
